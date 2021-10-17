@@ -1,0 +1,14 @@
+Rencana belajar :
+1. Git dan Github
+- Apa itu git
+- Istilah-istilah yang ada pada git
+- Pendalaman terhadap git dan github
+2. PHP
+- Syntak-syntak php
+- OOP dalam php
+- Pendalaman mengenai php
+3. Laravel
+- Folder-folder yang ada pada laravel
+- Pendalam terhadap laravel
+4. Javascript
+- Pendalaman mengenai javascript
