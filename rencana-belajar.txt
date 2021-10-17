@@ -11,4 +11,5 @@ Rencana belajar :
 - Folder-folder yang ada pada laravel
 - Pendalam terhadap laravel
 4. Javascript
+- Pengertian javascript
 - Pendalaman mengenai javascript
