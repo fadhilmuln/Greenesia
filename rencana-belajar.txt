@@ -12,4 +12,4 @@ Rencana belajar :
 - Pendalam terhadap laravel
 4. Javascript
 - Pengertian javascript
-- Pendalaman mengenai javascript
+- Belajar frameworknya
